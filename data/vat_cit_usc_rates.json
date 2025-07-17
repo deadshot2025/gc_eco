@@ -1,0 +1,14 @@
+{
+  "VAT": {
+    "standard": 23,
+    "reduced": 8,
+    "zero": 0
+  },
+  "CIT": {
+    "standard": 19,
+    "small_business": 9
+  },
+  "USC": {
+    "rate": 4.5
+  }
+}
